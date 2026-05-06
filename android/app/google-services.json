@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1064553669389",
+    "project_id": "fit-flex-60a68",
+    "storage_bucket": "fit-flex-60a68.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1064553669389:android:0c093ce56c3e5bb3b1c644",
+        "android_client_info": {
+          "package_name": "com.example.fit_flex3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSGJ2fLY86N7zLLWeHraHOwFsBkxJmxek"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
